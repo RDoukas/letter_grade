@@ -3,15 +3,15 @@
 #  Answer the research questions below
   # 1. What happens when you make a method with no parameters then pass in an argument?
 
-    # 
+    # You'll get an error that there are the wrong amount of arguments. 1 is provided instead of zero
 
   # 2. What happens when you have a method that defines three parameters and you give it only 2 arguments when it is called?
 
-    # 
+    # It will make the other parameters nil as they're not there. 
 
   # 3. What are the errors you get?
 
-    # 
+    # It will ask for more parameters.
 
   # 4. Can you get an error by adding or subtracting arguments when using the example code? If so, what errors do you get?
 
